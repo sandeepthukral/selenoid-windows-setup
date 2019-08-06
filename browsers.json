@@ -3,7 +3,7 @@
     "default": "11",
     "versions": {
       "11": {
-        "image": ["C:\\IEDriverServer.exe"]
+        "image": ["C:\\headless_ie_selenium.exe"]
       }
     }
   }
